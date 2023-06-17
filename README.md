@@ -5,9 +5,21 @@ then run the main.py and put a domain name as ur input and you'll receive some d
 
 
 
-1 sub domains
+1 sub domains  
+
+
 2 each sub domain status code
+
+
 3 subdomain ips and their status code
+
+
 4 found emails and phone numbers by regex tool
+
+
 5 domain info 
+
+
 6 all urls on the website
+
+
